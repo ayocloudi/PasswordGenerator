@@ -1,5 +1,8 @@
 # PasswordGenerator
 Password Generator Project
+
+![image](https://github.com/ayocloudi/PasswordGenerator/assets/126922387/fdb0491f-2b14-4bb5-93f0-1aaaca727346)
+
 This Python script generates random passwords based on user-defined criteria such as the number of letters, symbols, and numbers desired in the password.
 
 How it works:
