@@ -25,4 +25,5 @@ Example:
 
 Easy Level: If you input 4 letters, 2 symbols, and 2 numbers, you might get a password like "JduE&!91".
 Hard Level: For the same input, you might receive a password like "g^2jk8&P", where the order of characters is randomized.
+
 Feel free to use and modify this script according to your needs!
