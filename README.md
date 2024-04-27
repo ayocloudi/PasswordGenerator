@@ -1,4 +1,4 @@
-# PasswordGenerator
+ # PasswordGenerator
 Password Generator Project
 
 ![image](https://github.com/ayocloudi/PasswordGenerator/assets/126922387/fdb0491f-2b14-4bb5-93f0-1aaaca727346)
